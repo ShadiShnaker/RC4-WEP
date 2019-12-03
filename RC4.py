@@ -1,6 +1,4 @@
 """
-Shadi Shnaker : 312270259
-Abd Abo Assa : 308306216
 """
 i = 0
 def BreakingWep(key,i):
